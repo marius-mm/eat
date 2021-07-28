@@ -21,4 +21,4 @@ Die Bananen zerkleinern (mixen oder zerdrücken) und dann einfach alles zusammen
 Bei 180°C für 45 Minuten backen.
 
 ## Quelle
-(Chefkoch)[https://www.chefkoch.de/rezepte/1383051243462081/Bananenbrot.html]
+[Chefkoch](https://www.chefkoch.de/rezepte/1383051243462081/Bananenbrot.html)
