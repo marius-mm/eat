@@ -1,4 +1,6 @@
-# Zutaten
+# Roggen Mischbrot
+
+## Zutaten
 |  Menge | Zutat  |
 |---|---|
 | 300g  | Roggenmehl (Typ 1150)  |
@@ -13,7 +15,7 @@
 
 ---
 
-# Zubereitung
+## Zubereitung
 1. Alle Zutaten vermengen
 2. ca. 24 Stunden stehen lassen und 2-3 mal [[dehnen und falten |cooking.wissen.brot#dehnen-und-falten--stretch-and-fold,]] (immer wenn der Teig wieder sein maximales Volumen erreicht hat) 
 3. Den Teig behutsam auf der Arbeitsfläche (gut einmehlen! der Teig kann sehr klebrig sein) ausbreiten. Dann von allen 4 Seiten zur Mitte falten und darauf achten das kein Mehl in den Teig gelangt. (Die Außenseite darf gut bemehlt sein)
@@ -25,6 +27,11 @@
 
 ---
 
-# Bilder
+## Bilder
 ![](/assets/images/2021-06-04-20-21-11.png)
 ![](/assets/images/2021-06-04-20-24-36.png)
+
+---
+
+## Quelle
+[lacrema-patisserie]https://lacrema-patisserie.com/sauerteigbrot-backen
